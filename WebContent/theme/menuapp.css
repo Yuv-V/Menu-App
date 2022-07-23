@@ -1,0 +1,11 @@
+font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+
+h1 {
+  font-size: (100)px;
+  font-weight: bolder;
+
+}
+
+a {text-decoration: none; }
